@@ -2,6 +2,7 @@
 using System;
 using System.Collections;
 using System.Configuration;
+using Microsoft.Azure;
 
 namespace Elmah.AzureTableStorage
 {
